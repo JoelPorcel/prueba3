@@ -1,0 +1,9 @@
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\FabricaMurosTrampa.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\FabricaMuros.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMuros.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosTrampa.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\../MuroTrampa.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Muro.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\Muro.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\MuroTrampa.generated.h

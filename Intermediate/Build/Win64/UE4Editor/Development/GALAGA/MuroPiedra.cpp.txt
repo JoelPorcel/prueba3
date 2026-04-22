@@ -1,0 +1,5 @@
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MuroPiedra.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Muro.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\Muro.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\MuroPiedra.generated.h

@@ -1,0 +1,2 @@
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\GALAGA.h

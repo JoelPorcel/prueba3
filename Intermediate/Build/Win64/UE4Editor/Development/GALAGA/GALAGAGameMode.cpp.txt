@@ -1,0 +1,37 @@
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\GALAGAGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\GALAGAGameMode.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\GALAGAPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\GALAGAPawn.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory/FabricaMurosComunes.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\FabricaMuros.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMuros.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosComunes.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory/FabricaMurosMovibles.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosMovibles.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory/FabricaMurosTrampa.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosTrampa.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Muro.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\Muro.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\AbstractFactory/FabricaMurosEspeciales.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\AbstractFactory\IFabrica.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\IFabrica.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosEspeciales.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\AbstractFactory/FabricaMurosNormales.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosNormales.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder/Director.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\IBuilder.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\IBuilder.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\Director.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder/BuilderA.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\BuilderA.generated.h

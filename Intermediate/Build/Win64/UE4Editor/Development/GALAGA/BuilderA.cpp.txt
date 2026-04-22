@@ -1,0 +1,13 @@
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\BuilderA.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\IBuilder.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\IBuilder.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\BuilderA.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\../Muro.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\Muro.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\../MuroMovible.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\MuroMovible.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\../MuroTrampa.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\MuroTrampa.generated.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\../MuroPiedra.h
+C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\MuroPiedra.generated.h

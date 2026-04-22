@@ -11,8 +11,8 @@
     <None Include="..\..\Source\GALAGAEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
-    <None Include="..\..\.gitattributes.txt" />
-    <None Include="..\..\.gitignore.txt" />
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{A32AAFB3-6BEA-462B-9E68-BDF4D2DCD867}</UniqueIdentifier>
     </Filter>

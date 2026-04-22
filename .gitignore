@@ -37,6 +37,3 @@ Saved/
 *.user
 
 # Ignore specific engine files
-*.uasset
-*.ubulk
-*.uexp

@@ -1,7 +1,0 @@
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA/MuroTrampa.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Muro.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\Muro.generated.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\MuroTrampa.generated.h

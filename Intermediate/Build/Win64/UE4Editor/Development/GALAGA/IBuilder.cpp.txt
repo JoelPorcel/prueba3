@@ -1,3 +1,0 @@
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\Builder\IBuilder.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\IBuilder.generated.h

@@ -1,7 +1,0 @@
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\FabricaMurosComunes.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\FabricaMuros.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMuros.generated.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosComunes.generated.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\../Muro.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\Muro.generated.h

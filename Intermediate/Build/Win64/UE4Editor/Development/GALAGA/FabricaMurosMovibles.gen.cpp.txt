@@ -1,7 +1,0 @@
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Development\GALAGA\Definitions.GALAGA.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA/MethodFactory/FabricaMurosMovibles.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Source\GALAGA\MethodFactory\FabricaMuros.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMuros.generated.h
-C:\Users\KUR0\Documents\Unreal Projects\GALAGA\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA\FabricaMurosMovibles.generated.h
